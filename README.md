@@ -1,11 +1,19 @@
 ### Hi there 👋
 
+My name is Olawale Samuel
+I am a product designer and manager with 4 years of working on products and creating experiences.
+
+🔭 I’m currently working on a RFID payment system to make payment easier for all.
+👯 I’m looking to join a growing startup, to use my experience in helping solve complex problems.
+
+You can reach me through mail Olawalessed@gmail.com
+
 <!--
 **olawalessed/olawalessed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on  ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
