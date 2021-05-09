@@ -5,9 +5,9 @@ I am a product designer and manager with 4 years of working on products and crea
 I have worked with teams across different level of Skills sucha as, SaaS, e-Commerce, and Fintech. 
 
 I love teaching people my knowledge, as it helps me grow more. Having a good communication skill, I always give feedbacks and contribute.
-I am a team player and self driven person.
+I am a team player and self driven.
 
-👯 I’m looking to join a growing startup, to use my experience in helping solve complex problems.
+👯 I look forward to joining a team that challenges individual growth.
 
 You can reach me through mail Olawalessed@gmail.com
 
