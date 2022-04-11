@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##My name is Olawale Samuel
+My name is Olawale Samuel
 I am a product designer, manager and Frontend Developer.
 
 I have worked with teams across different level of Skills sucha as, SaaS, e-Commerce, and Fintech. 
