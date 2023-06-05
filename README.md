@@ -1,17 +1,9 @@
 ### Hi there 👋
 
 My name is Olawale Samuel
-I am a product designer, manager and Frontend Developer.
+I am a product developer.
+Self driven and a great team player.
 
-I have worked with teams across different level of Skills sucha as, SaaS, e-Commerce, and Fintech. 
-
-Co-founder #YNotation #Tech & Brains Foundation 🔭
-
-I love to teach people my knowledge, as it helps me grow more.
-I have good communication skill, I always love feedbacks.
-I am self driven and a great team player.
-
-👯👯👯👯👯👯👯👯👯👯👯👯👯👯👯👯👯👯👯👯👯👯👯👯
 You can reach me through mail Olawalessed@gmail.com
 
 <!--
